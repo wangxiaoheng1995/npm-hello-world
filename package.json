@@ -1,0 +1,23 @@
+{
+  "name": "wxh-npm-hello-world",
+  "version": "1.0.0",
+  "description": "npm package test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wangxiaoheng1995/npm-hello-world.git"
+  },
+  "keywords": [
+    "npm",
+    "test"
+  ],
+  "author": "wangxiaoheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangxiaoheng1995/npm-hello-world/issues"
+  },
+  "homepage": "https://github.com/wangxiaoheng1995/npm-hello-world#readme"
+}
